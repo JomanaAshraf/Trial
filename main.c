@@ -10,7 +10,7 @@ int main()
     printf("%d\n",c);
     printf("%d\n",*pc);
     printf("%llx\n",&c);
-    printf("%p\n",pc);
+   // printf("%p\n",pc);
     *pc=10;
     printf("%d",c);
   //  x=arr;
